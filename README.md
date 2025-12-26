@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Serhii Yemets </h1>
 
 <p align="center">
-  <b>Fullstack Developer | React | Node.js </b>
+  <b>Fullstack Developer JavaScript | React | Node.js </b>
 </p>
 
 ---
@@ -38,16 +38,16 @@
 ### ⭐ Featured Projects
 
 - **Create your ideal home** — Full-stack modern furniture e-commerce
-  🧩 HTML5 · CSS3 · JavaScript · Swiper.js · iziToast · raty-js · axios (REST API requests). 
-  🔗 Repo: https://github.com/SerhiiYemets/DreamTeam
+  - 🧩 HTML5 · CSS3 · JavaScript · Swiper.js · iziToast · raty-js · axios (REST API requests). 
+  - 🔗 Repo: https://github.com/SerhiiYemets/DreamTeam
 
 - **YogaBloom** — Full-stack adaptive website  
-  🧩 HTML/CSS · JavaScript · Animate.css · Vite 
-  🔗 Repo: https://github.com/SerhiiYemets/project-group-05
+  - 🧩 HTML/CSS · JavaScript · Animate.css · Vite
+  - 🔗 Repo: https://github.com/SerhiiYemets/project-group-05
   
-- **WebStudio** — Education & development website  
-  🧩 HTML5 · Cascading Style Sheets (CSS) · JavaScript · GitHub · Figma (Software)  
-  🔗 Repo: https://github.com/SerhiiYemets/goit-markup-hw-06
+- **WebStudio** — Full-stack Education & development website  
+  - 🧩 HTML5 · Cascading Style Sheets (CSS) · JavaScript · GitHub · Figma (Software)  
+  - 🔗 Repo: https://github.com/SerhiiYemets/goit-markup-hw-06
 
 ---
 ## 🗣️ Languages
@@ -62,4 +62,4 @@
 
 - 💬 Telegram: https://t.me/Serhii_Yemets
 - 💼 LinkedIn: https://www.linkedin.com/in/serhii-yemets/
-- 📧 Email:serhiiyemets2020@gmail.com
+- 📧 Email: serhiiyemets2020@gmail.com
