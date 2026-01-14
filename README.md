@@ -37,6 +37,12 @@
 
 ### ⭐ Featured Projects
 
+- **NoteHub — learning project built with Next.js (App Router)**
+  - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query (React Query) · Axios · CSS Modules Prettier
+       Backend & API: Public REST API (NoteHub) · Token-based authentication (Bearer token) · Secure environment variables for API access · Preloaded test data for faster development
+       Deployment: Vercel.
+  - 🔗 Repo: https://github.com/SerhiiYemets/07-routing-nextjs
+       
 - **Create your ideal home** — Full-stack modern furniture e-commerce
   - 🧩 HTML5 · CSS3 · JavaScript · Swiper.js · iziToast · raty-js · axios (REST API requests). 
   - 🔗 Repo: https://github.com/SerhiiYemets/DreamTeam
