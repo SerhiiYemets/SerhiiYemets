@@ -63,7 +63,7 @@
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Czech](https://img.shields.io/badge/Czech-B2-lightgrey?style=flat-square)
+![Czech](https://img.shields.io/badge/Czech-B1-lightgrey?style=flat-square)
 
 ## 📫 Contact Me
 
