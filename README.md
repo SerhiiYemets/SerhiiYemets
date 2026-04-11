@@ -38,6 +38,16 @@
 
 ### ⭐ Featured Projects
 
+- **NatureTravel — full-stack travel platform for discovering and sharing locations**
+  - 🧩 Next.js 15 (App Router) · React · TypeScript · Zustand · TanStack Query (React Query) · Formik · Yup · CSS Modules  
+       Backend & API: Node.js · Express · MongoDB (Mongoose) · JWT authentication · REST API · Swagger (OpenAPI)  
+       Features: Authentication · Protected routes · Locations catalog (filtering, sorting, pagination) · Reviews & rating · Form validation · Modal system · Error handling · Responsive UI  
+       Deployment: Vercel  
+  - 🔗 Repo: https://github.com/Ihor-Kotliarevskyi/next-project-group-02  
+  - 🌐 Demo: https://relax-map-group-02.vercel.app/  
+  - 👨‍💻 My contribution:
+       Authentication system · Form architecture (Formik + Yup) · API integration · Navigation & UX improvements
+
 - **NoteHub — learning project built with Next.js (App Router)**
   - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query (React Query) · Axios · CSS Modules Prettier
        Backend & API: Public REST API (NoteHub) · Token-based authentication (Bearer token) · Secure environment variables for API access · Preloaded test data for faster development
