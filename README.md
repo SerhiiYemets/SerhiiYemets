@@ -38,6 +38,15 @@
 
 ### ⭐ Featured Projects
 
+- **TravelTrucks — camper rental web application for browsing and booking vans**
+  - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query · CSS Modules  
+       Features: Camper catalog (filtering, pagination) · Camper details page · Reviews & rating · Booking form with API integration · Dynamic SEO metadata · Loading states & error handling · Responsive UI  
+       Deployment: Vercel  
+  - 🔗 Repo: https://github.com/SerhiiYemets/camper-booking-platform  
+  - 🌐 Demo: https://camper-booking-platform.vercel.app/  
+  - 👨‍💻 My contribution:
+       Catalog implementation · Camper details page · Reviews system · Booking functionality · Performance & SEO improvements
+
 - **NatureTravel — full-stack travel platform for discovering and sharing locations**
   - 🧩 Next.js 15 (App Router) · React · TypeScript · Zustand · TanStack Query (React Query) · Formik · Yup · CSS Modules  
        Backend & API: Node.js · Express · MongoDB (Mongoose) · JWT authentication · REST API · Swagger (OpenAPI)  
@@ -47,12 +56,6 @@
   - 🌐 Demo: https://relax-map-group-02.vercel.app/  
   - 👨‍💻 My contribution:
        Authentication system · Form architecture (Formik + Yup) · API integration · Navigation & UX improvements
-
-- **NoteHub — learning project built with Next.js (App Router)**
-  - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query (React Query) · Axios · CSS Modules Prettier
-       Backend & API: Public REST API (NoteHub) · Token-based authentication (Bearer token) · Secure environment variables for API access · Preloaded test data for faster development
-       Deployment: Vercel.
-  - 🔗 Repo: https://github.com/SerhiiYemets/07-routing-nextjs
        
 - **Create your ideal home** — Full-stack modern furniture e-commerce
   - 🧩 HTML5 · CSS3 · JavaScript · Swiper.js · iziToast · raty-js · axios (REST API requests). 
@@ -61,10 +64,6 @@
 - **YogaBloom** — Full-stack adaptive website  
   - 🧩 HTML/CSS · JavaScript · Animate.css · Vite
   - 🔗 Repo: https://github.com/SerhiiYemets/project-group-05
-  
-- **WebStudio** — Full-stack Education & development website  
-  - 🧩 HTML5 · Cascading Style Sheets (CSS) · JavaScript · GitHub · Figma (Software)  
-  - 🔗 Repo: https://github.com/SerhiiYemets/goit-markup-hw-06
 
 ---
 ## 🗣️ Languages
