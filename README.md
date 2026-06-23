@@ -15,22 +15,52 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React_Hooks](https://img.shields.io/badge/React_Hooks-000?style=for-the-badge&logo=react)
+![Context_API](https://img.shields.io/badge/Context_API-000?style=for-the-badge&logo=react)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio)
+![CSS_Modules](https://img.shields.io/badge/CSS_Modules-000?style=for-the-badge&logo=cssmodules)
+![Responsive_Design](https://img.shields.io/badge/Responsive_Design-000?style=for-the-badge&logo=googlechrome)
 
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![REST_API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-000?style=for-the-badge&logo=openstreetmap)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-000?style=for-the-badge&logo=json)
+![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![VS_Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Svgomg](https://img.shields.io/badge/Svgomg-000?style=for-the-badge&logo=svgomg)
-![Squoosh](https://img.shields.io/badge/Squoosh-000?style=for-the-badge&logo=squoosh)
-![IcoMoon](https://img.shields.io/badge/IcoMoon-000?style=for-the-badge&logo=icoMoon)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=chatGPT)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Hetzner](https://img.shields.io/badge/Hetzner-000?style=for-the-badge&logo=hetzner)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logo=gnubash)
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-000?style=for-the-badge)
+![Cursor_AI](https://img.shields.io/badge/Cursor_AI-000?style=for-the-badge)
+![Squoosh](https://img.shields.io/badge/Squoosh-000?style=for-the-badge)
+![SVGO](https://img.shields.io/badge/SVGO-000?style=for-the-badge)
+![IcoMoon](https://img.shields.io/badge/IcoMoon-000?style=for-the-badge)
+
+**Deployment & DevOps**
+
+![Hetzner](https://img.shields.io/badge/Hetzner-000?style=for-the-badge&logo=hetzner)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2)
+![MongoDB_Atlas](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Environment_Variables](https://img.shields.io/badge/Environment_Variables-000?style=for-the-badge&logo=dotenv)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-000?style=for-the-badge&logo=ubuntu)
+![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge&logo=gnubash)
+![DNS](https://img.shields.io/badge/Domain_%26_DNS-000?style=for-the-badge&logo=cloudflare)
 
 ---
 
@@ -38,7 +68,7 @@
 
 ### ⭐ Featured Projects
 
- - ** SushiMax — Full-Stack Online Food Ordering Platform
+ - **SushiMax — Full-Stack Online Food Ordering Platform**
   - 🧩 Next.js (App Router) · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · OpenStreetMap · PM2 · Hetzner · GitHub Actions
     Features:
   - 🍣 Online food ordering system
