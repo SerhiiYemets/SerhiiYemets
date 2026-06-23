@@ -38,6 +38,52 @@
 
 ### ⭐ Featured Projects
 
+SushiMax — Full-Stack Online Food Ordering Platform
+🧩 Next.js (App Router) · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · OpenStreetMap · PM2 · Hetzner · GitHub Actions
+Features
+🍣 Online food ordering system
+📍 Real-time delivery zone calculation
+🗺️ Free delivery inside city boundaries (Jihlava & Kolin)
+🚚 Automatic paid delivery calculation outside city limits
+🔔 Real-time order notifications via Socket.IO
+🔊 Custom notification sound for new orders
+🍱 Dynamic menu synchronization with Poster POS
+📦 Restaurant-specific menus and products
+📧 Email order notifications
+🔐 Authentication & protected admin routes
+📱 Responsive UI & mobile-first design
+⚡ Optimized API performance and caching
+🌙 Dark/Light mode support
+Infrastructure
+☁️ Hetzner Cloud VPS
+🔄 PM2 process management
+🔒 HTTPS & environment configuration
+🚀 GitHub deployment workflow
+📊 Production logging and monitoring
+Integrations
+Poster POS API
+OpenStreetMap / Nominatim
+Socket.IO
+Brevo SMTP
+MongoDB
+👨‍💻 My contribution
+Full-stack architecture
+Backend API development
+Delivery zone and pricing logic
+City-based free delivery implementation
+Poster POS integration
+Real-time order notification system
+Socket.IO implementation
+Menu synchronization automation
+Authentication & admin functionality
+Deployment and server configuration on Hetzner
+Performance optimization
+Bug fixing and production support
+Если проект публичный, можно добавить ссылки:
+🔗 Repo: https://github.com/SerhiiYemets/sushi-blended-express
+
+🌐 Demo: https://newsushimax.xyz
+
 - **TravelTrucks — camper rental web application for browsing and booking vans**
   - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query · CSS Modules  
        Features: Camper catalog (filtering, pagination) · Camper details page · Reviews & rating · Booking form with API integration · Dynamic SEO metadata · Loading states & error handling · Responsive UI  
