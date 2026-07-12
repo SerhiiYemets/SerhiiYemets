@@ -110,7 +110,7 @@ Deployment and server configuration on Hetzner
 Performance optimization
 Bug fixing and production support
 
-🌐 Demo: https://newsushimax.xyz
+🌐 Demo: https://sushimax.cz
 
 - **TravelTrucks — camper rental web application for browsing and booking vans**
   - 🧩 Next.js (App Router) · React · TypeScript · TanStack Query · CSS Modules  
