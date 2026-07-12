@@ -153,3 +153,4 @@ Bug fixing and production support
 - 💬 Telegram: https://t.me/Serhii_Yemets
 - 💼 LinkedIn: https://www.linkedin.com/in/serhii-yemets/
 - 📧 Email: serhiiyemets2020@gmail.com
+- Portfolio: https://serhii-yemets-portfolio.vercel.app/ 
