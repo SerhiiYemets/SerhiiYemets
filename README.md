@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Serhii Yemets </h1>
 
 <p align="center">
-  <b>Fullstack Developer JavaScript | React | Node.js </b>
+  <b>Full-Stack JavaScript Developer | React | Next.js | Node.js | DevOps </b>
 </p>
 
 ---
@@ -53,6 +53,15 @@
 
 **Deployment & DevOps**
 
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-000?style=for-the-badge&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-000?style=for-the-badge&logo=terraform)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-000?style=for-the-badge&logo=amazonec2)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-000?style=for-the-badge&logo=amazons3)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazondynamodb)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-000?style=for-the-badge&logo=amazonwebservices)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
 ![Hetzner](https://img.shields.io/badge/Hetzner-000?style=for-the-badge&logo=hetzner)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 ![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2)
