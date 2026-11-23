@@ -1,8 +1,10 @@
 <h1 align="center"> 👋 Hi, I'm Serhii Yemets </h1>
 
+
 <p align="center">
-  <b>Full-Stack JavaScript Developer | React | Next.js | Node.js | DevOps </b>
+  <b>Full-Stack Developer | React | Next.js | TypeScript | Node.js | Express.js | MongoDB | PostgreSQL | DevOps | AI Engineering</b>
 </p>
+
 
 ---
 
